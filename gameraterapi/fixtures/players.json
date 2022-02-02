@@ -1,0 +1,20 @@
+[
+    {
+        "model": "gameraterapi.player",
+        "pk": 1,
+        "fields": {
+            "name": "Shelby",
+            "username": "Srossi",
+            "password": "me"
+        }
+    },
+    {
+        "model": "gameraterapi.player",
+        "pk": 2,
+        "fields": {
+            "name": "Blake",
+            "username": "BOwens",
+            "password": "me2"
+        }
+    }
+    ]

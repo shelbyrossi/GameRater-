@@ -1,0 +1,26 @@
+[
+    {
+        "model": "gameraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Game 1",
+            "description": "description 1",
+            "year_released": 1979,
+            "number_of_players": 3,
+            "estimated_time_to_play": 5,
+            "age_recommendation": 16
+        }
+    },
+    {
+        "model": "gameraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Game 2",
+            "description": "description 2",
+            "year_released": 2021,
+            "number_of_players": 5,
+            "estimated_time_to_play": 2,
+            "age_recommendation": 19
+        }
+    }
+    ]

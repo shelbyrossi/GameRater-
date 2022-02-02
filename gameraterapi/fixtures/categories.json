@@ -1,0 +1,16 @@
+[
+    {
+        "model": "gameraterapi.category",
+        "pk": 1,
+        "fields": {
+            "label": "board games"
+        }
+    },
+    {
+        "model": "gameraterapi.category",
+        "pk": 2,
+        "fields": {
+            "label": "card games"
+        }
+    }
+    ]
